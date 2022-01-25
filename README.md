@@ -9,6 +9,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+-->
 - 🌱 I’m currently learning how to create React Cloud-based applications, and Back-end
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with finding job as a Front End Developer
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
--->
+
 
 
 🛠️ Tool & Technologies
