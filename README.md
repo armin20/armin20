@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-🛠️ Tool & Technologies
+🛠️ Tools & Technologies
 ---
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
