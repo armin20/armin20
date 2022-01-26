@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 [![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white "Github")](https://github.com/armin20)
 
 -->
-- 🔭 I’m currently working on Cloud-Based React Application
+- 🔭 I’m currently working on React, and Angular Projects.
 - 🌱 I’m currently learning how to create React Cloud-based applications, and Back-end
 - 🤔 I’m looking for help with finding job as a Front End Developer, Software Developer
 - 😄 Pronouns: He/him
