@@ -1,6 +1,7 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 
+<br/>
 
 
 <!--
@@ -19,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him
 
 
-
+<br/>
 
 🛠️ Tools & Technologies
 ---
@@ -32,6 +33,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Cplusplus&logoColor=white&color=2bbc8a)
 
+<br/>
 
 📈 Github Stats
 ---
