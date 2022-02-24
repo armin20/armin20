@@ -1,4 +1,5 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+![](https://visitor-badge.laobi.icu/badge?page_id=armin20.armin20)
 
 
 <br/>
@@ -37,6 +38,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/PackageManager-NPM-informational?style=flat&logo=NPM&logoColor=white&color=red)
+
 
 <br/>
 
