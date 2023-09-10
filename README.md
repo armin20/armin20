@@ -42,6 +42,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![](https://img.shields.io/badge/.NET-563D7C?style=for-the-badge&logo=dotNET&logoColor=white)
+![](https://img.shields.io/badge/Java-CB3837?style=for-the-badge&logo=java&logoColor=white)
+
 
 
 <br/>
