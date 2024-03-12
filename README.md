@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/.NET-563D7C?style=for-the-badge&logo=dotNET&logoColor=white)
 ![](https://img.shields.io/badge/Java-CB3837?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=python&logoColor=white)
 
 
 
